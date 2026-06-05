@@ -58,3 +58,22 @@ The collection includes healthcare-focused prompts, reasoning workflows, structu
 Kware Wilfred
 
 AI Trainer | Critical Care Nurse
+
+## Featured Sections
+
+- Clinical reasoning prompts
+- Healthcare safety evaluation prompts
+- Structured JSON output examples
+- Prompt optimization examples
+- Sepsis prompt engineering case study
+
+## Target Roles
+
+This project is designed to demonstrate skills relevant to:
+
+- AI Trainer
+- LLM Evaluator
+- Prompt Engineer
+- RLHF Contributor
+- Medical AI Reviewer
+- Healthcare AI Safety Evaluator
